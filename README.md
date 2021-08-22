@@ -53,4 +53,5 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
 
-Check This site [Gatsby my-first-gatsby-site](https://www.gatsbyjs.com/dashboard/)
+[Gatsby dashboard](https://www.gatsbyjs.com/dashboard/)
+[my first gatsby site](https://myfirstgatsbysitemain79650.gatsbyjs.io/)
